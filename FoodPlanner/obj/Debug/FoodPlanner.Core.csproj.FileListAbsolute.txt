@@ -1,0 +1,30 @@
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe.config
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Moq.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Ninject.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Moq.xml
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Ninject.xml
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.Core.csprojResolveAssemblyReference.cache
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.exe
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.pdb
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe.config
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.pdb
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\Moq.dll
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\Ninject.dll
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\Moq.xml
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\bin\Debug\Ninject.xml
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.Core.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.exe
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe.config
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\Moq.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\Ninject.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\Moq.xml
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\bin\Debug\Ninject.xml
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.Core.csprojResolveAssemblyReference.cache
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.exe
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.pdb

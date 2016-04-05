@@ -1,0 +1,10 @@
+c:\users\simo\documents\visual studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe.config
+c:\users\simo\documents\visual studio 2012\Projects\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.csprojResolveAssemblyReference.cache
+c:\users\simo\documents\visual studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.exe
+c:\users\simo\documents\visual studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\FoodPlanner.pdb
+c:\users\simo\documents\visual studio 2012\Projects\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.exe
+c:\users\simo\documents\visual studio 2012\Projects\FoodPlanner\FoodPlanner\obj\Debug\FoodPlanner.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Moq.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Ninject.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Moq.xml
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner\bin\Debug\Ninject.xml

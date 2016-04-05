@@ -1,0 +1,23 @@
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlannerTests.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlannerTests.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlanner.exe
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\Moq.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\Ninject.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlanner.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\Moq.xml
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\bin\Debug\Ninject.xml
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\obj\Debug\FoodPlanner.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\obj\Debug\FoodPlannerTests.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlannerTests\obj\Debug\FoodPlannerTests.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\obj\Debug\FoodPlanner.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\obj\Debug\FoodPlannerTests.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\obj\Debug\FoodPlannerTests.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlannerTests.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlannerTests.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlanner.exe
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\Moq.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\Ninject.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\FoodPlanner.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\Moq.xml
+C:\Users\sist\Desktop\FoodPlanner\FoodPlannerTests\bin\Debug\Ninject.xml

@@ -1,0 +1,45 @@
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.exe.config
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.exe
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.csprojResolveAssemblyReference.cache
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.Properties.Resources.resources
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.csproj.GenerateResource.Cache
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.exe
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.Form1.resources
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.exe
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Ninject.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.pdb
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Ninject.xml
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Moq.dll
+C:\Users\simo\Documents\Visual Studio 2012\Projects\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Moq.xml
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.exe.config
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.exe
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.pdb
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.exe
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.pdb
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.exe
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Moq.dll
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Ninject.dll
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.pdb
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Moq.xml
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Ninject.xml
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.Form1.resources
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.Properties.Resources.resources
+C:\Users\Simon\Desktop\Undervisning AspIT\Programmer\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.csproj.GenerateResource.Cache
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.exe.config
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.exe
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.exe
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.WinClients.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.exe
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Moq.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Ninject.dll
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\FoodPlanner.pdb
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Moq.xml
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\bin\Debug\Ninject.xml
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.csprojResolveAssemblyReference.cache
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.Form1.resources
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.Properties.Resources.resources
+C:\Users\sist\Desktop\FoodPlanner\FoodPlanner.WinClients\obj\Debug\FoodPlanner.WinClients.csproj.GenerateResource.Cache
